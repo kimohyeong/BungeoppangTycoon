@@ -1,0 +1,912 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\GameFont.spritefont</Source>
+      <Name>Fonts\GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\Fonts\GameFont.xnb</Output>
+      <Time>2017-05-03T17:58:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2017-06-09T19:19:32+09:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2017-06-14T20:25:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Rankingfont.spritefont</Source>
+      <Name>Rankingfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\Rankingfont.xnb</Output>
+      <Time>2017-06-14T00:20:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\시작버튼.png</Source>
+      <Name>image\시작버튼</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\image\시작버튼.xnb</Output>
+      <Time>2017-05-03T20:34:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\최종배경.png</Source>
+      <Name>image\최종배경</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\image\최종배경.xnb</Output>
+      <Time>2017-06-14T23:30:11.6821162+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\게임방법버튼.png</Source>
+      <Name>image\게임방법버튼</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\image\게임방법버튼.xnb</Output>
+      <Time>2017-05-03T22:40:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\창닫기버튼.png</Source>
+      <Name>image\창닫기버튼</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\image\창닫기버튼.xnb</Output>
+      <Time>2017-05-14T02:25:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\3.png</Source>
+      <Name>image\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\image\3.xnb</Output>
+      <Time>2017-06-14T01:26:48+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\2.png</Source>
+      <Name>image\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\image\2.xnb</Output>
+      <Time>2017-06-14T01:26:46+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\1.png</Source>
+      <Name>image\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\image\1.xnb</Output>
+      <Time>2017-06-14T01:26:46+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\게임시작.png</Source>
+      <Name>image\게임시작</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\image\게임시작.xnb</Output>
+      <Time>2017-06-14T01:26:48+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\게임방법.png</Source>
+      <Name>image\게임방법</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\image\게임방법.xnb</Output>
+      <Time>2017-05-14T03:20:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2017-05-01T00:34:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>banjuk.png</Source>
+      <Name>banjuk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\banjuk.xnb</Output>
+      <Time>2017-05-12T01:05:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>hand.PNG</Source>
+      <Name>hand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\hand.xnb</Output>
+      <Time>2017-05-12T01:12:20+09:00</Time>
+    </Item>
+    <Item>
+      <Source>pat.PNG</Source>
+      <Name>pat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\pat.xnb</Output>
+      <Time>2017-05-12T01:17:08+09:00</Time>
+    </Item>
+    <Item>
+      <Source>customer\cat.png</Source>
+      <Name>customer\cat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\customer\cat.xnb</Output>
+      <Time>2017-05-11T21:40:26+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0000.png</Source>
+      <Name>sprite\teel\base\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0000.xnb</Output>
+      <Time>2017-05-15T21:16:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0001.png</Source>
+      <Name>sprite\teel\base\teel0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0001.xnb</Output>
+      <Time>2017-05-15T21:16:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0002.png</Source>
+      <Name>sprite\teel\base\teel0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0002.xnb</Output>
+      <Time>2017-05-15T21:16:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0003.png</Source>
+      <Name>sprite\teel\base\teel0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0003.xnb</Output>
+      <Time>2017-05-15T21:16:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0004.png</Source>
+      <Name>sprite\teel\base\teel0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0004.xnb</Output>
+      <Time>2017-05-15T21:16:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0005.png</Source>
+      <Name>sprite\teel\base\teel0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0005.xnb</Output>
+      <Time>2017-05-15T21:16:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0006.png</Source>
+      <Name>sprite\teel\base\teel0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0006.xnb</Output>
+      <Time>2017-05-15T21:16:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0007.png</Source>
+      <Name>sprite\teel\base\teel0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0007.xnb</Output>
+      <Time>2017-05-15T21:16:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0008.png</Source>
+      <Name>sprite\teel\base\teel0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0008.xnb</Output>
+      <Time>2017-05-15T21:16:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0009.PNG</Source>
+      <Name>sprite\teel\base\teel0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0009.xnb</Output>
+      <Time>2017-05-15T21:16:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0000.PNG</Source>
+      <Name>sprite\teel\burn\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0000.xnb</Output>
+      <Time>2017-05-15T21:16:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0001.PNG</Source>
+      <Name>sprite\teel\burn\teel0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0001.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0002.PNG</Source>
+      <Name>sprite\teel\burn\teel0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0002.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0003.PNG</Source>
+      <Name>sprite\teel\burn\teel0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0003.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0004.PNG</Source>
+      <Name>sprite\teel\burn\teel0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0004.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0005.PNG</Source>
+      <Name>sprite\teel\burn\teel0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0005.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0006.PNG</Source>
+      <Name>sprite\teel\burn\teel0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0006.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0007.PNG</Source>
+      <Name>sprite\teel\burn\teel0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0007.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0008.PNG</Source>
+      <Name>sprite\teel\burn\teel0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0008.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0009.PNG</Source>
+      <Name>sprite\teel\burn\teel0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0009.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0010.PNG</Source>
+      <Name>sprite\teel\burn\teel0010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0010.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0011.PNG</Source>
+      <Name>sprite\teel\burn\teel0011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0011.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0012.PNG</Source>
+      <Name>sprite\teel\burn\teel0012</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0012.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0013.PNG</Source>
+      <Name>sprite\teel\burn\teel0013</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0013.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0014.PNG</Source>
+      <Name>sprite\teel\burn\teel0014</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0014.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0015.PNG</Source>
+      <Name>sprite\teel\burn\teel0015</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0015.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\finishing\teel0000.png</Source>
+      <Name>sprite\teel\finishing\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\finishing\teel0000.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\finishing\teel0001.png</Source>
+      <Name>sprite\teel\finishing\teel0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\finishing\teel0001.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\pat\teel0000.PNG</Source>
+      <Name>sprite\teel\pat\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\pat\teel0000.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\pat\teel0001.PNG</Source>
+      <Name>sprite\teel\pat\teel0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\pat\teel0001.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\pat\teel0002.PNG</Source>
+      <Name>sprite\teel\pat\teel0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\pat\teel0002.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0000.jpg</Source>
+      <Name>sprite\teel\people\people0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\people\people0000.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0001.jpg</Source>
+      <Name>sprite\teel\people\people0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\people\people0001.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0002.jpg</Source>
+      <Name>sprite\teel\people\people0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\people\people0002.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0003.jpg</Source>
+      <Name>sprite\teel\people\people0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\people\people0003.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0004.jpg</Source>
+      <Name>sprite\teel\people\people0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\people\people0004.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0005.jpg</Source>
+      <Name>sprite\teel\people\people0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\people\people0005.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0006.jpg</Source>
+      <Name>sprite\teel\people\people0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\people\people0006.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0007.jpg</Source>
+      <Name>sprite\teel\people\people0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\people\people0007.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0008.jpg</Source>
+      <Name>sprite\teel\people\people0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\people\people0008.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0009.jpg</Source>
+      <Name>sprite\teel\people\people0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\people\people0009.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0000.PNG</Source>
+      <Name>sprite\teel\reverse\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0000.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0001.PNG</Source>
+      <Name>sprite\teel\reverse\teel0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0001.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0002.PNG</Source>
+      <Name>sprite\teel\reverse\teel0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0002.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0003.PNG</Source>
+      <Name>sprite\teel\reverse\teel0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0003.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0004.png</Source>
+      <Name>sprite\teel\reverse\teel0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0004.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0005.png</Source>
+      <Name>sprite\teel\reverse\teel0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0005.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0006.png</Source>
+      <Name>sprite\teel\reverse\teel0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0006.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0007.png</Source>
+      <Name>sprite\teel\reverse\teel0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0007.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0008.png</Source>
+      <Name>sprite\teel\reverse\teel0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0008.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0009.png</Source>
+      <Name>sprite\teel\reverse\teel0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0009.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0010.png</Source>
+      <Name>sprite\teel\reverse\teel0010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0010.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0011.png</Source>
+      <Name>sprite\teel\reverse\teel0011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0011.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0012.png</Source>
+      <Name>sprite\teel\reverse\teel0012</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0012.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0013.png</Source>
+      <Name>sprite\teel\reverse\teel0013</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0013.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0014.png</Source>
+      <Name>sprite\teel\reverse\teel0014</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0014.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0015.png</Source>
+      <Name>sprite\teel\reverse\teel0015</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0015.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0016.png</Source>
+      <Name>sprite\teel\reverse\teel0016</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0016.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\teel\teel0000.PNG</Source>
+      <Name>sprite\teel\teel\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\sprite\teel\teel\teel0000.xnb</Output>
+      <Time>2017-05-15T21:16:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>customer\custom0000.png</Source>
+      <Name>customer\custom0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\customer\custom0000.xnb</Output>
+      <Time>2017-06-10T14:56:08+09:00</Time>
+    </Item>
+    <Item>
+      <Source>customer\custom0001.png</Source>
+      <Name>customer\custom0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\customer\custom0001.xnb</Output>
+      <Time>2017-06-10T14:56:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>customer\custom0002.png</Source>
+      <Name>customer\custom0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\customer\custom0002.xnb</Output>
+      <Time>2017-06-10T14:56:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>customer\custom0003.png</Source>
+      <Name>customer\custom0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\customer\custom0003.xnb</Output>
+      <Time>2017-06-10T14:56:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>customer\custom0004.png</Source>
+      <Name>customer\custom0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\customer\custom0004.xnb</Output>
+      <Time>2017-06-10T14:57:08+09:00</Time>
+    </Item>
+    <Item>
+      <Source>customer\custom0005.png</Source>
+      <Name>customer\custom0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\customer\custom0005.xnb</Output>
+      <Time>2017-06-10T14:57:18+09:00</Time>
+    </Item>
+    <Item>
+      <Source>customer\custom0006.png</Source>
+      <Name>customer\custom0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\customer\custom0006.xnb</Output>
+      <Time>2017-06-10T14:57:30+09:00</Time>
+    </Item>
+    <Item>
+      <Source>customer\custom0007.png</Source>
+      <Name>customer\custom0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\customer\custom0007.xnb</Output>
+      <Time>2017-06-10T14:57:48+09:00</Time>
+    </Item>
+    <Item>
+      <Source>customer\custom0008.png</Source>
+      <Name>customer\custom0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\customer\custom0008.xnb</Output>
+      <Time>2017-06-10T14:58:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>customer\custom0009.png</Source>
+      <Name>customer\custom0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\customer\custom0009.xnb</Output>
+      <Time>2017-06-10T14:58:16+09:00</Time>
+    </Item>
+    <Item>
+      <Source>customer\custom0010.png</Source>
+      <Name>customer\custom0010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\customer\custom0010.xnb</Output>
+      <Time>2017-06-10T14:58:26+09:00</Time>
+    </Item>
+    <Item>
+      <Source>customer\custom0011.png</Source>
+      <Name>customer\custom0011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\customer\custom0011.xnb</Output>
+      <Time>2017-06-10T14:58:46+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ranking.png</Source>
+      <Name>ranking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\ranking.xnb</Output>
+      <Time>2017-06-09T23:45:00+09:00</Time>
+    </Item>
+    <Item>
+      <Source>market.png</Source>
+      <Name>market</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\market.xnb</Output>
+      <Time>2017-06-14T02:56:30+09:00</Time>
+    </Item>
+    <Item>
+      <Source>white.JPG</Source>
+      <Name>white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\white.xnb</Output>
+      <Time>2017-06-14T00:08:06+09:00</Time>
+    </Item>
+    <Item>
+      <Source>watch.png</Source>
+      <Name>watch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\watch.xnb</Output>
+      <Time>2017-06-13T23:46:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>selection.png</Source>
+      <Name>selection</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\selection.xnb</Output>
+      <Time>2017-06-14T05:17:02+09:00</Time>
+    </Item>
+    <Item>
+      <Source>option.png</Source>
+      <Name>option</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\option.xnb</Output>
+      <Time>2017-06-14T23:29:25.6421847+09:00</Time>
+    </Item>
+    <Item>
+      <Source>am_white.mp3</Source>
+      <Name>am_white</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\am_white.xnb</Output>
+      <Extra>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\am_white.wma</Extra>
+      <Time>2017-06-09T19:11:56+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3F74526F-03D9-468E-9A5C-8E4B77F7DAD5}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\startContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\502\Documents\카카오톡 받은 파일\20170615\start\start\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-04-27T13:01:58.5222661+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

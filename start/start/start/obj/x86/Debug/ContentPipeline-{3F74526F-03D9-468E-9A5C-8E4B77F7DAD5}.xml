@@ -1,0 +1,713 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\GameFont.spritefont</Source>
+      <Name>Fonts\GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\Fonts\GameFont.xnb</Output>
+      <Time>2017-05-03T17:58:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\시작버튼.png</Source>
+      <Name>image\시작버튼</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\image\시작버튼.xnb</Output>
+      <Time>2017-05-03T20:34:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\최종배경.png</Source>
+      <Name>image\최종배경</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\image\최종배경.xnb</Output>
+      <Time>2017-05-03T21:17:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\게임방법버튼.png</Source>
+      <Name>image\게임방법버튼</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\image\게임방법버튼.xnb</Output>
+      <Time>2017-05-03T22:40:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\창닫기버튼.png</Source>
+      <Name>image\창닫기버튼</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\image\창닫기버튼.xnb</Output>
+      <Time>2017-05-14T02:25:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\3.png</Source>
+      <Name>image\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\image\3.xnb</Output>
+      <Time>2017-05-14T02:48:00+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\2.png</Source>
+      <Name>image\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\image\2.xnb</Output>
+      <Time>2017-05-14T02:48:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\1.png</Source>
+      <Name>image\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\image\1.xnb</Output>
+      <Time>2017-05-14T02:48:08+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\게임시작.png</Source>
+      <Name>image\게임시작</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\image\게임시작.xnb</Output>
+      <Time>2017-05-14T02:58:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>image\게임방법.png</Source>
+      <Name>image\게임방법</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\image\게임방법.xnb</Output>
+      <Time>2017-05-14T03:20:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2017-05-01T00:34:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>banjuk.png</Source>
+      <Name>banjuk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\banjuk.xnb</Output>
+      <Time>2017-05-12T01:05:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>cat.png</Source>
+      <Name>cat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\cat.xnb</Output>
+      <Time>2017-05-11T21:40:26+09:00</Time>
+    </Item>
+    <Item>
+      <Source>hand.PNG</Source>
+      <Name>hand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\hand.xnb</Output>
+      <Time>2017-05-12T01:12:20+09:00</Time>
+    </Item>
+    <Item>
+      <Source>pat.PNG</Source>
+      <Name>pat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\pat.xnb</Output>
+      <Time>2017-05-12T01:17:08+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0000.png</Source>
+      <Name>sprite\teel\base\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0000.xnb</Output>
+      <Time>2017-05-15T21:16:57.9167011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0001.png</Source>
+      <Name>sprite\teel\base\teel0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0001.xnb</Output>
+      <Time>2017-05-15T21:16:57.9177011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0002.png</Source>
+      <Name>sprite\teel\base\teel0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0002.xnb</Output>
+      <Time>2017-05-15T21:16:57.9187011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0003.png</Source>
+      <Name>sprite\teel\base\teel0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0003.xnb</Output>
+      <Time>2017-05-15T21:16:57.9207011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0004.png</Source>
+      <Name>sprite\teel\base\teel0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0004.xnb</Output>
+      <Time>2017-05-15T21:16:57.9347011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0005.png</Source>
+      <Name>sprite\teel\base\teel0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0005.xnb</Output>
+      <Time>2017-05-15T21:16:57.9367011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0006.png</Source>
+      <Name>sprite\teel\base\teel0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0006.xnb</Output>
+      <Time>2017-05-15T21:16:57.9387011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0007.png</Source>
+      <Name>sprite\teel\base\teel0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0007.xnb</Output>
+      <Time>2017-05-15T21:16:57.9407011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0008.png</Source>
+      <Name>sprite\teel\base\teel0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0008.xnb</Output>
+      <Time>2017-05-15T21:16:57.9447011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\base\teel0009.PNG</Source>
+      <Name>sprite\teel\base\teel0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\base\teel0009.xnb</Output>
+      <Time>2017-05-15T21:16:57.9467011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0000.PNG</Source>
+      <Name>sprite\teel\burn\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0000.xnb</Output>
+      <Time>2017-05-15T21:16:57.9847011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0001.PNG</Source>
+      <Name>sprite\teel\burn\teel0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0001.xnb</Output>
+      <Time>2017-05-15T21:16:58.0437011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0002.PNG</Source>
+      <Name>sprite\teel\burn\teel0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0002.xnb</Output>
+      <Time>2017-05-15T21:16:58.0977011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0003.PNG</Source>
+      <Name>sprite\teel\burn\teel0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0003.xnb</Output>
+      <Time>2017-05-15T21:16:58.1387011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0004.PNG</Source>
+      <Name>sprite\teel\burn\teel0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0004.xnb</Output>
+      <Time>2017-05-15T21:16:58.2127011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0005.PNG</Source>
+      <Name>sprite\teel\burn\teel0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0005.xnb</Output>
+      <Time>2017-05-15T21:16:58.2587011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0006.PNG</Source>
+      <Name>sprite\teel\burn\teel0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0006.xnb</Output>
+      <Time>2017-05-15T21:16:58.2817011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0007.PNG</Source>
+      <Name>sprite\teel\burn\teel0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0007.xnb</Output>
+      <Time>2017-05-15T21:16:58.3097011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0008.PNG</Source>
+      <Name>sprite\teel\burn\teel0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0008.xnb</Output>
+      <Time>2017-05-15T21:16:58.3297011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0009.PNG</Source>
+      <Name>sprite\teel\burn\teel0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0009.xnb</Output>
+      <Time>2017-05-15T21:16:58.3727011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0010.PNG</Source>
+      <Name>sprite\teel\burn\teel0010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0010.xnb</Output>
+      <Time>2017-05-15T21:16:58.3937011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0011.PNG</Source>
+      <Name>sprite\teel\burn\teel0011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0011.xnb</Output>
+      <Time>2017-05-15T21:16:58.4087011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0012.PNG</Source>
+      <Name>sprite\teel\burn\teel0012</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0012.xnb</Output>
+      <Time>2017-05-15T21:16:58.4447011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0013.PNG</Source>
+      <Name>sprite\teel\burn\teel0013</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0013.xnb</Output>
+      <Time>2017-05-15T21:16:58.4637011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0014.PNG</Source>
+      <Name>sprite\teel\burn\teel0014</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0014.xnb</Output>
+      <Time>2017-05-15T21:16:58.5147011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\burn\teel0015.PNG</Source>
+      <Name>sprite\teel\burn\teel0015</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\burn\teel0015.xnb</Output>
+      <Time>2017-05-15T21:16:58.5397011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\finishing\teel0000.png</Source>
+      <Name>sprite\teel\finishing\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\finishing\teel0000.xnb</Output>
+      <Time>2017-05-15T21:16:58.5917011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\finishing\teel0001.png</Source>
+      <Name>sprite\teel\finishing\teel0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\finishing\teel0001.xnb</Output>
+      <Time>2017-05-15T21:16:58.6127011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\pat\teel0000.PNG</Source>
+      <Name>sprite\teel\pat\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\pat\teel0000.xnb</Output>
+      <Time>2017-05-15T21:16:58.6817011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\pat\teel0001.PNG</Source>
+      <Name>sprite\teel\pat\teel0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\pat\teel0001.xnb</Output>
+      <Time>2017-05-15T21:16:58.7107011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\pat\teel0002.PNG</Source>
+      <Name>sprite\teel\pat\teel0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\pat\teel0002.xnb</Output>
+      <Time>2017-05-15T21:16:58.7737011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0000.jpg</Source>
+      <Name>sprite\teel\people\people0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\people\people0000.xnb</Output>
+      <Time>2017-05-15T21:16:58.8057011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0001.jpg</Source>
+      <Name>sprite\teel\people\people0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\people\people0001.xnb</Output>
+      <Time>2017-05-15T21:16:58.8127011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0002.jpg</Source>
+      <Name>sprite\teel\people\people0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\people\people0002.xnb</Output>
+      <Time>2017-05-15T21:16:58.8397011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0003.jpg</Source>
+      <Name>sprite\teel\people\people0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\people\people0003.xnb</Output>
+      <Time>2017-05-15T21:16:58.8637011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0004.jpg</Source>
+      <Name>sprite\teel\people\people0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\people\people0004.xnb</Output>
+      <Time>2017-05-15T21:16:58.9137011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0005.jpg</Source>
+      <Name>sprite\teel\people\people0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\people\people0005.xnb</Output>
+      <Time>2017-05-15T21:16:58.9297011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0006.jpg</Source>
+      <Name>sprite\teel\people\people0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\people\people0006.xnb</Output>
+      <Time>2017-05-15T21:16:58.9387011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0007.jpg</Source>
+      <Name>sprite\teel\people\people0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\people\people0007.xnb</Output>
+      <Time>2017-05-15T21:16:58.9547011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0008.jpg</Source>
+      <Name>sprite\teel\people\people0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\people\people0008.xnb</Output>
+      <Time>2017-05-15T21:16:58.9807011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\people\people0009.jpg</Source>
+      <Name>sprite\teel\people\people0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\people\people0009.xnb</Output>
+      <Time>2017-05-15T21:16:58.9987011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0000.PNG</Source>
+      <Name>sprite\teel\reverse\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0000.xnb</Output>
+      <Time>2017-05-15T21:16:59.1177011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0001.PNG</Source>
+      <Name>sprite\teel\reverse\teel0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0001.xnb</Output>
+      <Time>2017-05-15T21:16:59.1397011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0002.PNG</Source>
+      <Name>sprite\teel\reverse\teel0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0002.xnb</Output>
+      <Time>2017-05-15T21:16:59.2447011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0003.PNG</Source>
+      <Name>sprite\teel\reverse\teel0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0003.xnb</Output>
+      <Time>2017-05-15T21:16:59.2827011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0004.png</Source>
+      <Name>sprite\teel\reverse\teel0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0004.xnb</Output>
+      <Time>2017-05-15T21:16:59.3007011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0005.png</Source>
+      <Name>sprite\teel\reverse\teel0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0005.xnb</Output>
+      <Time>2017-05-15T21:16:59.3637011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0006.png</Source>
+      <Name>sprite\teel\reverse\teel0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0006.xnb</Output>
+      <Time>2017-05-15T21:16:59.3947011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0007.png</Source>
+      <Name>sprite\teel\reverse\teel0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0007.xnb</Output>
+      <Time>2017-05-15T21:16:59.4277011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0008.png</Source>
+      <Name>sprite\teel\reverse\teel0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0008.xnb</Output>
+      <Time>2017-05-15T21:16:59.5097011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0009.png</Source>
+      <Name>sprite\teel\reverse\teel0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0009.xnb</Output>
+      <Time>2017-05-15T21:16:59.5627011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0010.png</Source>
+      <Name>sprite\teel\reverse\teel0010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0010.xnb</Output>
+      <Time>2017-05-15T21:16:59.5927011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0011.png</Source>
+      <Name>sprite\teel\reverse\teel0011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0011.xnb</Output>
+      <Time>2017-05-15T21:16:59.6277011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0012.png</Source>
+      <Name>sprite\teel\reverse\teel0012</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0012.xnb</Output>
+      <Time>2017-05-15T21:16:59.6477011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0013.png</Source>
+      <Name>sprite\teel\reverse\teel0013</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0013.xnb</Output>
+      <Time>2017-05-15T21:16:59.6787011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0014.png</Source>
+      <Name>sprite\teel\reverse\teel0014</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0014.xnb</Output>
+      <Time>2017-05-15T21:16:59.7017011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0015.png</Source>
+      <Name>sprite\teel\reverse\teel0015</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0015.xnb</Output>
+      <Time>2017-05-15T21:16:59.7267011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\reverse\teel0016.png</Source>
+      <Name>sprite\teel\reverse\teel0016</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\reverse\teel0016.xnb</Output>
+      <Time>2017-05-15T21:16:59.7627011+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite\teel\teel\teel0000.PNG</Source>
+      <Name>sprite\teel\teel\teel0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\sprite\teel\teel\teel0000.xnb</Output>
+      <Time>2017-05-15T21:16:59.8147011+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3F74526F-03D9-468E-9A5C-8E4B77F7DAD5}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\User\Desktop\start (1)\start\start\startContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\User\Desktop\start (1)\start\start\start\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\User\Desktop\start (1)\start\start\start\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\User\Desktop\start (1)\start\start\start\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-04-27T13:07:49.3348003+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

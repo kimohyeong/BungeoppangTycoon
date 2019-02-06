@@ -1,0 +1,2 @@
+c:\users\minhee\documents\visual studio 2015\Projects\start\start\startContent\obj\x86\Debug\startContent.contentprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\start (1)\start\start\startContent\obj\x86\Debug\startContent.contentprojResolveAssemblyReference.cache
